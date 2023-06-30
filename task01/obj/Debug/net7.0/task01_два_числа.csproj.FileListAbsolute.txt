@@ -1,0 +1,15 @@
+/Users/daryasalauyova/Desktop/C# /task01/bin/Debug/net7.0/task01_два_числа
+/Users/daryasalauyova/Desktop/C# /task01/bin/Debug/net7.0/task01_два_числа.deps.json
+/Users/daryasalauyova/Desktop/C# /task01/bin/Debug/net7.0/task01_два_числа.runtimeconfig.json
+/Users/daryasalauyova/Desktop/C# /task01/bin/Debug/net7.0/task01_два_числа.dll
+/Users/daryasalauyova/Desktop/C# /task01/bin/Debug/net7.0/task01_два_числа.pdb
+/Users/daryasalauyova/Desktop/C# /task01/obj/Debug/net7.0/task01_два_числа.csproj.AssemblyReference.cache
+/Users/daryasalauyova/Desktop/C# /task01/obj/Debug/net7.0/task01_два_числа.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daryasalauyova/Desktop/C# /task01/obj/Debug/net7.0/task01_два_числа.AssemblyInfoInputs.cache
+/Users/daryasalauyova/Desktop/C# /task01/obj/Debug/net7.0/task01_два_числа.AssemblyInfo.cs
+/Users/daryasalauyova/Desktop/C# /task01/obj/Debug/net7.0/task01_два_числа.csproj.CoreCompileInputs.cache
+/Users/daryasalauyova/Desktop/C# /task01/obj/Debug/net7.0/task01_два_числа.dll
+/Users/daryasalauyova/Desktop/C# /task01/obj/Debug/net7.0/refint/task01_два_числа.dll
+/Users/daryasalauyova/Desktop/C# /task01/obj/Debug/net7.0/task01_два_числа.pdb
+/Users/daryasalauyova/Desktop/C# /task01/obj/Debug/net7.0/task01_два_числа.genruntimeconfig.cache
+/Users/daryasalauyova/Desktop/C# /task01/obj/Debug/net7.0/ref/task01_два_числа.dll
