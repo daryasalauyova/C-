@@ -1,0 +1,15 @@
+/Users/daryasalauyova/Desktop/seminar/C# /C# /task017/bin/Debug/net7.0/task017
+/Users/daryasalauyova/Desktop/seminar/C# /C# /task017/bin/Debug/net7.0/task017.deps.json
+/Users/daryasalauyova/Desktop/seminar/C# /C# /task017/bin/Debug/net7.0/task017.runtimeconfig.json
+/Users/daryasalauyova/Desktop/seminar/C# /C# /task017/bin/Debug/net7.0/task017.dll
+/Users/daryasalauyova/Desktop/seminar/C# /C# /task017/bin/Debug/net7.0/task017.pdb
+/Users/daryasalauyova/Desktop/seminar/C# /C# /task017/obj/Debug/net7.0/task017.csproj.AssemblyReference.cache
+/Users/daryasalauyova/Desktop/seminar/C# /C# /task017/obj/Debug/net7.0/task017.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daryasalauyova/Desktop/seminar/C# /C# /task017/obj/Debug/net7.0/task017.AssemblyInfoInputs.cache
+/Users/daryasalauyova/Desktop/seminar/C# /C# /task017/obj/Debug/net7.0/task017.AssemblyInfo.cs
+/Users/daryasalauyova/Desktop/seminar/C# /C# /task017/obj/Debug/net7.0/task017.csproj.CoreCompileInputs.cache
+/Users/daryasalauyova/Desktop/seminar/C# /C# /task017/obj/Debug/net7.0/task017.dll
+/Users/daryasalauyova/Desktop/seminar/C# /C# /task017/obj/Debug/net7.0/refint/task017.dll
+/Users/daryasalauyova/Desktop/seminar/C# /C# /task017/obj/Debug/net7.0/task017.pdb
+/Users/daryasalauyova/Desktop/seminar/C# /C# /task017/obj/Debug/net7.0/task017.genruntimeconfig.cache
+/Users/daryasalauyova/Desktop/seminar/C# /C# /task017/obj/Debug/net7.0/ref/task017.dll
