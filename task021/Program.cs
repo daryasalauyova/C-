@@ -1,18 +1,28 @@
 ﻿/*
-Напишите программу, 
-которая принимает на вход число (N) и выдаёт таблицу квадратов чисел от 1 до N.
+Напишите программу, которая принимает на вход координаты двух точек 
+и находит расстояние между ними в 3D пространстве.
+A (3,6,8); B (2,1, -7), -> 15.84
+A (7,-5, 0); B (1, -1,9) -> 11.53
 */ 
 
-Console.WriteLine("Введите число");
-int Num = Convert.ToInt32(Console.ReadLine ());
-int count = 1;
-int mult = 0;
-if (Num >0)
-{
-    while (count < Num + 1)
-    {
-        mult = count * count;
-        count = count +1;
-        Console.Write($"{mult}, ");
-    }
-}
+
+
+Console.WriteLine("Enter X of point A ");
+int XpointA = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter Y of point A ");
+int YpointA = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter Z of point A ");
+int ZpointA = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine("Enter X of point B ");
+int XpointB = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter X of point B ");
+int YpointB = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Enter Z of point B ");
+int ZpointB = Convert.ToInt32(Console.ReadLine());
+
+double result = Math.Sqrt((XpointA - XpointB) * 
+(XpointA - XpointB) + (YpointA - YpointB) *
+(YpointA - YpointB) + (ZpointA - ZpointB) *
+(ZpointA - ZpointB));
+Console.WriteLine($"Distance --> {Math.Round(result, 2)}");
