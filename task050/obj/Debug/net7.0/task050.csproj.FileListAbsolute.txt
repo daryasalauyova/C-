@@ -1,0 +1,5 @@
+/Users/daryasalauyova/Desktop/seminar/C# /C# /task050/obj/Debug/net7.0/task050.csproj.AssemblyReference.cache
+/Users/daryasalauyova/Desktop/seminar/C# /C# /task050/obj/Debug/net7.0/task050.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daryasalauyova/Desktop/seminar/C# /C# /task050/obj/Debug/net7.0/task050.AssemblyInfoInputs.cache
+/Users/daryasalauyova/Desktop/seminar/C# /C# /task050/obj/Debug/net7.0/task050.AssemblyInfo.cs
+/Users/daryasalauyova/Desktop/seminar/C# /C# /task050/obj/Debug/net7.0/task050.csproj.CoreCompileInputs.cache
