@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/daryasalauyova/Desktop/seminar/C# /C# /task07/task07.csproj": {}
+    "/Users/daryasalauyova/Desktop/seminar/C# /C# /task040/task040.csproj": {}
   },
   "projects": {
-    "/Users/daryasalauyova/Desktop/seminar/C# /C# /task07/task07.csproj": {
+    "/Users/daryasalauyova/Desktop/seminar/C# /C# /task040/task040.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/daryasalauyova/Desktop/seminar/C# /C# /task07/task07.csproj",
-        "projectName": "task07",
-        "projectPath": "/Users/daryasalauyova/Desktop/seminar/C# /C# /task07/task07.csproj",
+        "projectUniqueName": "/Users/daryasalauyova/Desktop/seminar/C# /C# /task040/task040.csproj",
+        "projectName": "task040",
+        "projectPath": "/Users/daryasalauyova/Desktop/seminar/C# /C# /task040/task040.csproj",
         "packagesPath": "/Users/daryasalauyova/.nuget/packages/",
-        "outputPath": "/Users/daryasalauyova/Desktop/seminar/C# /C# /task07/obj/",
+        "outputPath": "/Users/daryasalauyova/Desktop/seminar/C# /C# /task040/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/daryasalauyova/.nuget/NuGet/NuGet.Config"

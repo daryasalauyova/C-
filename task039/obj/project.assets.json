@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/daryasalauyova/Desktop/seminar/C# /C# /task07/task07.csproj",
-      "projectName": "task07",
-      "projectPath": "/Users/daryasalauyova/Desktop/seminar/C# /C# /task07/task07.csproj",
+      "projectUniqueName": "/Users/daryasalauyova/Desktop/seminar/C# /C# /task039/task039.csproj",
+      "projectName": "task039",
+      "projectPath": "/Users/daryasalauyova/Desktop/seminar/C# /C# /task039/task039.csproj",
       "packagesPath": "/Users/daryasalauyova/.nuget/packages/",
-      "outputPath": "/Users/daryasalauyova/Desktop/seminar/C# /C# /task07/obj/",
+      "outputPath": "/Users/daryasalauyova/Desktop/seminar/C# /C# /task039/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/daryasalauyova/.nuget/NuGet/NuGet.Config"
