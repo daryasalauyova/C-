@@ -9,7 +9,7 @@ m = 3, n = 4.
 */
 
 
-double[,] Get2DArray(int rowNumber, int colNumber, int maxValue, int minValue)
+double[,] Get2DArray(int rowNumber, int colNumber, int deviation)
 {
     double[,] result = new double[rowNumber, colNumber];
     for (int i = 0; i < rowNumber; i++)
@@ -41,5 +41,5 @@ void Print2DArray(double[,] arrayToPrint)
     }
 }
 
-double[,] numbers = GetRandom2DArray(3, 4, 100);
+double[,] numbers = Get2DArray(3, 4, 100);
 Print2DArray(numbers);

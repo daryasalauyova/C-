@@ -52,13 +52,13 @@ int n = Convert.ToInt32(Console.ReadLine());
 
 bool IsValidPosition(int[,] matrix, int rowIndex, int columnIndex)
 {
-    if (rowIndex >= matrix.GetLength(0)) 
-    columnIndex >= matrix.GetLength(1) 
-    (rowIndex < 0) || (columnIndex < 0);
-    {
-        return false;
-    }
-    return true;
+if (rowIndex >= matrix.GetLength(0)
+||columnIndex >= matrix.GetLength(1) // || позволяют писать на новой строке
+||(rowIndex < 0) || (columnIndex < 0)) // не нужна ;, но нужна закрывающая ).
+{
+return false;
+}
+return true;
 }
 
 if (IsValidPosition(matrix, m, n))
