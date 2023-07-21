@@ -1,0 +1,15 @@
+/Users/daryasalauyova/Desktop/seminar/C# /C# /task060/obj/Debug/net7.0/task060.csproj.AssemblyReference.cache
+/Users/daryasalauyova/Desktop/seminar/C# /C# /task060/obj/Debug/net7.0/task060.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daryasalauyova/Desktop/seminar/C# /C# /task060/obj/Debug/net7.0/task060.AssemblyInfoInputs.cache
+/Users/daryasalauyova/Desktop/seminar/C# /C# /task060/obj/Debug/net7.0/task060.AssemblyInfo.cs
+/Users/daryasalauyova/Desktop/seminar/C# /C# /task060/obj/Debug/net7.0/task060.csproj.CoreCompileInputs.cache
+/Users/daryasalauyova/Desktop/seminar/C# /C# /task060/bin/Debug/net7.0/task060
+/Users/daryasalauyova/Desktop/seminar/C# /C# /task060/bin/Debug/net7.0/task060.deps.json
+/Users/daryasalauyova/Desktop/seminar/C# /C# /task060/bin/Debug/net7.0/task060.runtimeconfig.json
+/Users/daryasalauyova/Desktop/seminar/C# /C# /task060/bin/Debug/net7.0/task060.dll
+/Users/daryasalauyova/Desktop/seminar/C# /C# /task060/bin/Debug/net7.0/task060.pdb
+/Users/daryasalauyova/Desktop/seminar/C# /C# /task060/obj/Debug/net7.0/task060.dll
+/Users/daryasalauyova/Desktop/seminar/C# /C# /task060/obj/Debug/net7.0/refint/task060.dll
+/Users/daryasalauyova/Desktop/seminar/C# /C# /task060/obj/Debug/net7.0/task060.pdb
+/Users/daryasalauyova/Desktop/seminar/C# /C# /task060/obj/Debug/net7.0/task060.genruntimeconfig.cache
+/Users/daryasalauyova/Desktop/seminar/C# /C# /task060/obj/Debug/net7.0/ref/task060.dll
