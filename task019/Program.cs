@@ -17,8 +17,7 @@ bool isPalindrome(int number)
           return true;
     return false;
 }
-
-// Console.WriteLine(isPalindrome(num));
+Console.WriteLine(isPalindrome(num));
 
 // 2 Method - String
 bool isPalindrome2(string number)

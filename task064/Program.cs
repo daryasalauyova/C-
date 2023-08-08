@@ -4,14 +4,21 @@
 в промежутке от N до 1.
 */
 
-void NatureleNum (int Number, int count = 1)
+void recCount(string[] args)
 {
-    if (Number < count)
-    return; 
-    else
+    Console.Write("Введите значение N: ");
+    string input = Console.ReadLine();
+    int N;
+
+    if (int.TryParse(input, out N))
     {
-        Console.Write(count+" " );
-        NatureleNum(Number, count+1);
+        for (int i = N; i >= 1; i--)
+        {
+            Console.Write(i);
+            if (i != 1)
+            {
+                Console.Write(", ");
+            }
+        }
     }
 }
-NatureleNum(5);

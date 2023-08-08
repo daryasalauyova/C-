@@ -3,3 +3,8 @@
 /Users/daryasalauyova/Desktop/seminar/C# /task053/obj/Debug/net7.0/task053.AssemblyInfoInputs.cache
 /Users/daryasalauyova/Desktop/seminar/C# /task053/obj/Debug/net7.0/task053.AssemblyInfo.cs
 /Users/daryasalauyova/Desktop/seminar/C# /task053/obj/Debug/net7.0/task053.csproj.CoreCompileInputs.cache
+/Users/daryasalauyova/Desktop/seminar/C# /C# /task053/obj/Debug/net7.0/task053.csproj.AssemblyReference.cache
+/Users/daryasalauyova/Desktop/seminar/C# /C# /task053/obj/Debug/net7.0/task053.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daryasalauyova/Desktop/seminar/C# /C# /task053/obj/Debug/net7.0/task053.AssemblyInfoInputs.cache
+/Users/daryasalauyova/Desktop/seminar/C# /C# /task053/obj/Debug/net7.0/task053.AssemblyInfo.cs
+/Users/daryasalauyova/Desktop/seminar/C# /C# /task053/obj/Debug/net7.0/task053.csproj.CoreCompileInputs.cache

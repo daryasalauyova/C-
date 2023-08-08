@@ -6,7 +6,7 @@
 85 -> 8
 */
 
-int randomNumber = new Random() . Next (10, 100);
+int rundomNumber = new Random() . Next (10, 100);
 Console.WriteLine (rundomNumber);
 int numberOne = rundomNumber % 10;
 int numberTwo = rundomNumber / 10;

@@ -11,15 +11,14 @@
 5 9 2 3
 1 4 7 2
 */
-
-int[,] Get2DArray(int rowNumber, int colNumber)
+int[,] GetRandom2dArray(int rows, int columns, int deviation)
 {
-    int[,] result = new int[rowNumber, colNumber];
-    for (int i = 0; i < rowNumber; i++)
+    int[,] result = new int[rows, columns];
+    for (int i = 0; i < rows; i++)
     {
-        for (int j = 0; j < colNumber; j++)
+        for (int j = 0; j < columns; j++)
         {
-            result[i, j] = i + j;
+            result[i, j] = new Random().Next(-deviation, deviation + 1);
         }
     }
     return result;
@@ -38,25 +37,42 @@ void Print2DArray(int[,] arrayToPrint)
         Console.Write($"[{i}]\t");
         for (int j = 0; j < arrayToPrint.GetLength(1); j++)
         {
-            Console.Write(arrayToPrint[i,j] + "\t");
+            Console.Write(arrayToPrint[i, j] + "\t");
         }
         Console.WriteLine();
     }
 }
 
-void Replace(int[,] array)
+int[] FindSumOfNumber(int[,] array)
 {
-    int temp = 0;
-    for(int i = 0; i < array.GetLength(1); i++)
+    int[] sumInArray = new int[array.GetLength(0)];
+    for (int i = 0; i < array.GetLength(0); i++)
     {
-        temp = array[array.GetLength(0) - 1, i];
-        array[array.GetLength(0) - 1, i] = array [0,i];
-        array[0, i] = temp;
+        for (int j = 0; j < array.GetLength(1); j++)
+        {
+            sumInArray[i] += array[i, j];
+        }
     }
+    return sumInArray;
 }
 
-int[,] arrayRnd = GetRandom2DArray(3, 4, 10);
-Print2DArray(arrayRnd);
-Console.WriteLine();
-Replace(arrayRnd);
-Print2DArray(arrayRnd);
+int  MinSumInArray(int[] array)
+{
+    int min = 0;
+    for (int i = 0; i < array.Length; i++)
+    {
+        if (array[i] <= array[min])
+        {
+            min = i;
+        } 
+    }return min;
+}
+
+
+int[,] matrix = GetRandom2dArray(3, 5, 10);
+Print2DArray(matrix);
+System.Console.WriteLine();
+int[] newArray = FindSumOfNumber(matrix);
+System.Console.WriteLine();
+int result = MinSumInArray(newArray);
+System.Console.WriteLine($" Строка с наименьшей суммой чисел - {result+1}");

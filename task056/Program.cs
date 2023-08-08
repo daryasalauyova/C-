@@ -11,7 +11,7 @@
 */
 
 
-int[,] matrix = ((6, 7, 3), (5, 6, 1), (5, 1, 3));
+int[,] matrix;
 int minSum = int.MaxValue;
 int minIndex = -1;
 

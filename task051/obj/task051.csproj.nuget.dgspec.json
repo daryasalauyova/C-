@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/daryasalauyova/Desktop/seminar/C# /task051/task051.csproj": {}
+    "/Users/daryasalauyova/Desktop/seminar/C# /C# /task051/task051.csproj": {}
   },
   "projects": {
-    "/Users/daryasalauyova/Desktop/seminar/C# /task051/task051.csproj": {
+    "/Users/daryasalauyova/Desktop/seminar/C# /C# /task051/task051.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/daryasalauyova/Desktop/seminar/C# /task051/task051.csproj",
+        "projectUniqueName": "/Users/daryasalauyova/Desktop/seminar/C# /C# /task051/task051.csproj",
         "projectName": "task051",
-        "projectPath": "/Users/daryasalauyova/Desktop/seminar/C# /task051/task051.csproj",
+        "projectPath": "/Users/daryasalauyova/Desktop/seminar/C# /C# /task051/task051.csproj",
         "packagesPath": "/Users/daryasalauyova/.nuget/packages/",
-        "outputPath": "/Users/daryasalauyova/Desktop/seminar/C# /task051/obj/",
+        "outputPath": "/Users/daryasalauyova/Desktop/seminar/C# /C# /task051/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/daryasalauyova/.nuget/NuGet/NuGet.Config"

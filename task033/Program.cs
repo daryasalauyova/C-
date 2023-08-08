@@ -12,7 +12,18 @@ Console.WriteLine("Введите число ");
 int Num = Convert.ToInt32(Console.ReadLine());
 
 int [] randomArray = getRandomArray(5, 9);
+
+int[] getRandomArray(int v1, int v2)
+{
+    throw new NotImplementedException();
+}
+
 printArray(randomArray);
+
+void printArray(int[] randomArray)
+{
+    throw new NotImplementedException();
+}
 
 bool isNumberInArray(int [] randomArray, int Number)
 {

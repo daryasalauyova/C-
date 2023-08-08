@@ -56,16 +56,6 @@ int[] FindSumOfNumber(int[,] array)
     return sumInArray;
 }
 
-void PrintSumArray(int[] array)
-{
-    Console.Write("   \t");
-    for (int i = 0; i < array.Length; i++)
-    {
-        Console.Write($" {array[i]} , ");
-
-    }
-}
-
 int  MinSumInArray(int[] array)
 {
     int min = 0;
